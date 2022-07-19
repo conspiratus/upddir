@@ -1194,7 +1194,7 @@
         <description>Geneious Benchling Plugin</description>
         <authors>EPAM</authors>
         <category>Integration</category>
-        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.21" releaseDate="2022-04-28" isBeta="false">
+        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.22" releaseDate="2022-04-28" isBeta="false">
             <changes>
                 Fixes issue with Flye not working with latest versions of MacOS.
             </changes>
