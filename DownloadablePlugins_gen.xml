@@ -44,7 +44,7 @@
 <plugins>
     
 
-    <plugin isNoteWorthy="false" isProOnly="false" releaseDate="2022-02-11">
+    <plugin isNoteWorthy="true" isProOnly="false" releaseDate="2022-02-11">
         <name>Benchling Plugin</name>
         <className>Geneious Benchling Plugin</className>
         <description>Plugin uploads selected sequences to banchling.</description>
