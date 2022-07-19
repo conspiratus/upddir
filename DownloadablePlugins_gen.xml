@@ -45,14 +45,14 @@
     
 
     <plugin isNoteWorthy="false" isProOnly="false" releaseDate="2022-02-11">
-        <name>Geneious Benchling Plugin</name>
+        <name>Benchling Plugin</name>
         <className>Geneious Benchling Plugin</className>
-        <description>Geneious Benchling Plugin</description>
-        <authors>EPAM</authors>
+        <description>Plugin uploads selected sequences to banchling.</description>
+        <authors>Ratmir Slepenkov</authors>
         <category>Integration</category>
         <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.23" releaseDate="2022-04-28" isBeta="false">
             <changes>
-                Fixes issue with Flye not working with latest versions of MacOS.
+                This plugin can be run using 'Export to Benchling' in the tool bar.
             </changes>
             <file>
                 <platform>All</platform>
