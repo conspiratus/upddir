@@ -44,13 +44,13 @@
 <plugins>
     
 
-    <plugin isNoteWorthy="true" isProOnly="false" releaseDate="2022-02-11">
+    <plugin isNoteWorthy="true" isProOnly="false" releaseDate="">
         <name>Benchling Plugin</name>
-        <className>Geneious Benchling Plugin</className>
+        <className></className>
         <description>Plugin uploads selected sequences to banchling.</description>
         <authors>Ratmir Slepenkov</authors>
-        <category>Integration</category>
-        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.22" releaseDate="2022-04-28" isBeta="false">
+        <category></category>
+        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.3" releaseDate="2022-08-18" isBeta="false">
             <changes>
                 This plugin can be run using 'Export to Benchling' in the tool bar.
             </changes>
