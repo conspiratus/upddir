@@ -50,7 +50,7 @@
         <description>Plugin uploads selected sequences to banchling.</description>
         <authors>Ratmir Slepenkov</authors>
         <category>Integration</category>
-        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.23" releaseDate="2022-04-28" isBeta="false">
+        <version minimumApiVersion="4.202010" maximumApiVersion="4" pluginVersion="0.2.22" releaseDate="2022-04-28" isBeta="false">
             <changes>
                 This plugin can be run using 'Export to Benchling' in the tool bar.
             </changes>
